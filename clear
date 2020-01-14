@@ -1,0 +1,29 @@
+[33mcommit b638c001eb38cc0084a53fed5d0d51a9de417287[m[33m ([m[1;36mHEAD -> [m[1;32mcoolbranch[m[33m, [m[1;31morigin/crazycolors[m[33m, [m[1;32mcrazycolors[m[33m)[m
+Author: David <david@jordan.com>
+Date:   Tue Jan 14 11:16:33 2020 -0600
+
+    added some cool text
+
+[33mcommit 146d0aa6556ed5b8feeb37d566cec45e90ce2aee[m
+Author: David <david@jordan.com>
+Date:   Mon Jan 13 11:36:03 2020 -0600
+
+    added color
+
+[33mcommit ce506cc8c7e51add4dc524b9ebb1c61c1d29a558[m
+Author: David <david@jordan.com>
+Date:   Mon Jan 13 11:30:33 2020 -0600
+
+    added script to index
+
+[33mcommit 8165ece1c6ede1bdf0075cc2a0d71269cec7d4f4[m
+Author: David <david@jordan.com>
+Date:   Mon Jan 13 11:28:25 2020 -0600
+
+    added more files
+
+[33mcommit 47d9138f33c514173f38549cbb640bc5d72f400f[m
+Author: David <david@jordan.com>
+Date:   Mon Jan 13 11:27:05 2020 -0600
+
+    added index.html
